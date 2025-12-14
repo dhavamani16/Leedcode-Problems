@@ -1,6 +1,7 @@
 package Greedy.MediumProblem;
 
-public class jumpGame(int[] nums) {
+public class jumpGame {
+    public boolean canJump(int[] nums) {
         int maxIndex=0;
         for(int i=0;i<nums.length;i++){
             if(i>maxIndex){
