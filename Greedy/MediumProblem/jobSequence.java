@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.*;
 
 public class jobSequence {
     public ArrayList<Integer> jobSequencing(int[] deadline, int[] profit) {
