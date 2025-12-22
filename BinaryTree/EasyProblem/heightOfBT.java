@@ -1,4 +1,4 @@
-package Easy
+package BinaryTree.EasyProblem
 
 import javax.swing.tree.TreeNode;
 

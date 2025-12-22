@@ -1,4 +1,4 @@
-package EasyProblem;
+package BinaryTree.EasyProblem;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;
