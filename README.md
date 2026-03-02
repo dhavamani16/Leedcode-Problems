@@ -25,7 +25,7 @@ It is intended for **coding interview preparation**, **problem-solving practice*
 - Trees & Binary Trees
 - Graphs (BFS / DFS)
 - Dynamic Programming
-- Greedy Algorithms
+- Greedy Algorithm
 - Bit Manipulation
 
 ---
