@@ -1,6 +1,5 @@
 import java.util.HashMap;
 import java.util.PriorityQueue;
-
 public class handsOnStrights {
     public boolean isNStraightHand(int[] hand, int groupSize) {
         if(hand.length%groupSize!=0)
@@ -27,6 +26,5 @@ public class handsOnStrights {
             }
         }
         return true;
-        
-    }
+     }
 }
