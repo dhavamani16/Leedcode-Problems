@@ -1,0 +1,11 @@
+class Solution {
+    public static int mp(int n){
+        if(n<=2){
+            return n;
+        }
+        return mp(n-1)+mp(n-2);
+    }
+    public int climbStairs(int n) {
+        return mp(n);
+    }
+}
